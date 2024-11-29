@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi!
+Welcome to my GitHub page.
+Most content is for my own personal testing and laborations, feel free to browse.
+
+My webpage www.benzzon.se also has some developer content.
+
+☑
+
+<!--
+Emojis for readme.md-files:  https://www.webfx.com/tools/emoji-cheat-sheet/
+
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+https://stackedit.io/app#
+
+-->
 
 <!--
 **benzzon/benzzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
