@@ -6,6 +6,9 @@ My webpage www.benzzon.se also has some developer content.
 
 ☑
 
+"Holopin-badges":
+[![An image of @benzzon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/benzzon)](https://holopin.io/@benzzon)
+
 <!--
 Emojis for readme.md-files:  https://www.webfx.com/tools/emoji-cheat-sheet/
 
